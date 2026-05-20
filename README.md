@@ -47,13 +47,6 @@ Hi! I'm a **full stack** engineer based in Rio de Janeiro, Brazil. I have **10+ 
 
 ---
 
-### GitHub highlights
-
-Public repos include technical challenges and side projects, e.g. full stack integrations (`desafio-ancar-*`, `desafio_beep_saude`, `desafio_gyra_mais-*`) and recent **TypeScript** work (`hackett-front-end`, `hackett-back-end`).
-
-> Pin the 6 repositories that best represent your current work on your GitHub profile.
-
----
 
 ### Connect
 
