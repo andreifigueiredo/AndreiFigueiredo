@@ -1,69 +1,63 @@
-## Andrei Paes Figueiredo — Full Stack Software Engineer | Tech Lead
+## Andrei Paes Figueiredo — Full Stack Software Engineer | Squad Lead
 
-Olá! Sou desenvolvedor **full stack** no Rio de Janeiro, Brasil. Tenho mais de **10 anos** construindo produtos web com foco em **código de qualidade**, **testes automatizados** e entrega sustentável em times ágeis.
-
----
-
-### Sobre mim
-
-- **Sr Developer** na [Afya](https://www.linkedin.com/company/afyaeducacional) — desenvolvimento full stack e engenharia de software em produtos de educação e saúde.
-- Experiência como **Squad Lead / Tech Lead** na [Agendor](https://www.linkedin.com/company/agendor): planejamento de features, mentoria e evolução da stack de testes e observabilidade.
-- Forte atuação em **automação de testes** (RSpec, Jest, Cypress, K6) e cultura de qualidade — referência entre pares em times anteriores.
-- Apaixonado por fundamentos de computação, arquitetura e boas práticas; sempre buscando responsabilidades que elevem o time e o produto.
+Hi! I'm a **full stack** engineer based in Rio de Janeiro, Brazil. I have **10+ years** building web products with a focus on **high-quality code**, **automated testing**, and sustainable delivery in agile teams.
 
 ---
 
-### Trajetória profissional
+### About me
 
-| Período | Empresa | Papel |
-|--------|---------|--------|
-| 2025 — atual | **Afya** | Sr Developer |
-| 2023 — 2025 | **Agendor** | Squad Leader → Senior Full Stack (CRM, billing/Stripe, Agendor Chat) |
-| 2020 — 2023 | **Gyra+** | Full Stack → Test Lead (crédito, GraphQL, evolução da stack de QA) |
-| 2020 | **Spot Educação** | Full Stack (plataforma EAD, adoção ágil) |
-| 2018 — 2020 | **Cultura Inglesa** | Full Stack (sistema de curso online) |
-| 2016 — 2018 | **NetQuant** | Estagiário → migração de sistema financeiro (Rails, Angular) |
+- **Squad Lead** at [Afya](https://www.linkedin.com/company/afyaeducacional) since **March 2026** — technical leadership, delivery planning, and full stack development across education and health products.
+- Previously **Squad Leader** at [Agendor](https://www.linkedin.com/company/agendor): feature planning, mentorship, and evolving the testing and observability stack.
+- Strong background in **test automation** (RSpec, Jest, Cypress, K6) and quality culture — recognized by peers as a reference for QA practices.
+- Passionate about computer science fundamentals, software architecture, and practices that raise the bar for both product and team.
 
 ---
 
-### Stack & ferramentas
+### Professional journey
+
+| Period | Company | Role |
+|--------|---------|------|
+| Mar 2026 — present | **Afya** | Squad Lead |
+| 2023 — 2025 | **Agendor** | Squad Leader → Senior Full Stack (CRM, Stripe billing, Agendor Chat) |
+| 2020 — 2023 | **Gyra+** | Full Stack → Test Lead (credit platform, GraphQL, QA stack evolution) |
+| 2020 | **Spot Educação** | Full Stack (online learning platform, agile adoption) |
+| 2018 — 2020 | **Cultura Inglesa** | Full Stack (online English course system) |
+| 2016 — 2018 | **NetQuant** | Intern → financial monitoring system migration (Rails, Angular) |
+
+---
+
+### Stack & tools
 
 **Backend:** Ruby on Rails · Node.js · TypeScript · GraphQL  
 
 **Frontend:** React · Next.js · Vue.js · Redux  
 
-**Qualidade:** RSpec · Jest · Cypress · Puppeteer · K6 · BDD  
+**Quality:** RSpec · Jest · Cypress · Puppeteer · K6 · BDD  
 
-**Outros:** APIs REST · Stripe · mentoria · planejamento técnico · metodologias ágeis  
-
----
-
-### Formação
-
-- **Bacharelado em Ciência da Computação** — Universidade Federal Rural do Rio de Janeiro (UFRRJ)
-- **Técnico em Informática** — Colégio Pedro II
-
-**Idiomas:** Português (nativo) · Inglês (profissional)
+**Other:** REST APIs · Stripe · technical mentorship · technical planning · agile methodologies  
 
 ---
 
-### Projetos no GitHub
+### Education
 
-Alguns repositórios públicos refletem desafios técnicos e estudos:
+- **B.Sc. in Computer Science** — Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+- **Technical degree in IT** — Colégio Pedro II
 
-- Integrações e apps full stack (`desafio-ancar-*`, `desafio_beep_saude`, `desafio_gyra_mais-*`)
-- Projetos recentes em **TypeScript** (`hackett-front-end`, `hackett-back-end`)
-
-> Pinne no perfil os 6 repositórios que melhor representam seu trabalho atual.
+**Languages:** Portuguese (native) · English (professional)
 
 ---
 
-### Conecte-se
+### GitHub highlights
+
+Public repos include technical challenges and side projects, e.g. full stack integrations (`desafio-ancar-*`, `desafio_beep_saude`, `desafio_gyra_mais-*`) and recent **TypeScript** work (`hackett-front-end`, `hackett-back-end`).
+
+> Pin the 6 repositories that best represent your current work on your GitHub profile.
+
+---
+
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrei--figueiredo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-figueiredo-373558104)
 [![GitHub](https://img.shields.io/badge/GitHub-andreifigueiredo-181717?style=flat&logo=github&logoColor=white)](https://github.com/andreifigueiredo)
 
-<!-- Substitua pelo seu e-mail se quiser expor: -->
-<!-- [![Email](https://img.shields.io/badge/Email-contato%40exemplo.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato@exemplo.com) -->
-
-Aberto a conversas sobre engenharia de software, qualidade, liderança técnica e colaborações em projetos open source.
+Open to conversations about software engineering, quality, technical leadership, and open source collaboration.
